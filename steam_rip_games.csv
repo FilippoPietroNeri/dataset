@@ -1,4 +1,4 @@
-id,title,description,thumbnail,downloadUrl,executablePath,category,tipologia
+id,title,description,thumbnail,url,executablePath,category,tipologia
 1,The Game of Life 2,Gioco da tavolo cooperativo per tutta la famiglia.,https://steamrip.com/wp-content/uploads/The-Game-of-Life-2.jpg,https://steamrip.com/The-Game-of-Life-2/,GameOfLife2.exe,Coop,Board game
 2,Zombieville USA 3D,Sopravvivi all'apocalisse zombie in questo frenetico gioco d'azione.,https://steamrip.com/wp-content/uploads/Zombieville-USA-3D.jpg,https://steamrip.com/Zombieville-USA-3D/,Zombieville.exe,Coop,Action
 3,Escape Simulator,Risolvi enigmi per fuggire da stanze misteriose insieme ai tuoi amici.,https://steamrip.com/wp-content/uploads/Escape-Simulator.jpg,https://steamrip.com/Escape-Simulator/,EscapeSim.exe,Coop,Puzzle
